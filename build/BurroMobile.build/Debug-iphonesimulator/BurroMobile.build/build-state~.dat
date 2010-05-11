@@ -1,0 +1,292 @@
+TBurroMobile
+v7
+r0
+t286986260.363709
+cCheck dependencies
+cProcessInfoPlistFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/Info.plist BurroMobile-Info.plist
+cCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+cCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+cCpResource build/Debug-iphonesimulator/BurroMobile.app/Berrando.jpg Berrando.jpg
+cProcessPCH /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch.gch BurroMobile_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/main.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileAppDelegate.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileViewController.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B193C3500000000000000EE
+t1259945013
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDEE5400000000000001AF
+t1253961300
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Berrando.jpg
+c000000004B1905790000000000005002
+t1259931001
+s20482
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+c000000004B69C2C00000000000009006
+t1265222336
+s36870
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile_Prefix.pch
+c000000004B6765FC00000000000000BF
+t1265067516
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.h
+c000000004B6765FC00000000000001FD
+t1265067516
+s509
+i<UIKit/UIKit.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m
+c000000004B6765FC0000000000000284
+t1265067516
+s644
+i"BurroMobileAppDelegate.h"
+i"BurroMobileViewController.h"
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.h
+c000000004B6AD6090000000000000561
+t1265292809
+s1377
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m
+c000000004B6AD86C0000000000000BBA
+t1265293420
+s3002
+i"BurroMobileViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+c000000004B6765FC000000000000247A
+t1265067516
+s9338
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobile.LinkFileList
+c000000004B6AD89300000000000001E9
+t1265293459
+s489
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileAppDelegate.o
+t1265293460
+s38752
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileViewController.o
+t1265293460
+s44236
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/main.o
+t1265293460
+s5996
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app
+t2
+s0
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app.dSYM
+t2
+s0
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/Berrando.jpg
+t1265293459
+s20482
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile
+t2
+s0
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobileViewController.nib
+t1265293459
+s6235
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/Info.plist
+t1265293459
+s580
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/MainWindow.nib
+t1265293459
+s1503
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/PkgInfo
+t1265293459
+s8
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m
+c000000004B6765FC0000000000000173
+t1265067516
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch.gch
+t1265293460
+s13034960
+
+NBurroMobile-Info.plist
+c000000004B67721700000000000003FC
+t1265070615
+s1020
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286986259#286986259#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileAppDelegate.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286986260.190831
+e286986260.291011
+r1
+xCompileC
+xbuild/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileAppDelegate.o
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m286986260#286986260#0(0"0(0#0#91"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m4300885448#2203"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources/i386 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources -include /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileAppDelegate.o0#
+
+CCompileC build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileViewController.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286986260.242785
+e286986260.341506
+r1
+xCompileC
+xbuild/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileViewController.o
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m: In function '-[BurroMobileViewController dealloc]':
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: 'CLLocationManager' may not respond to '-realease'
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: (Messages without a matching method signature
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: will be assumed to return 'id' and accept
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: '...' as arguments.)
+lSLF07#2@102"Compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m286986260#286986260#0(740"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m: In function '-[BurroMobileViewController dealloc]':/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: 'CLLocationManager' may not respond to '-realease'/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: (Messages without a matching method signature/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: will be assumed to return 'id' and accept/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:79: warning: '...' as arguments.)2(22@50"'CLLocationManager' may not respond to '-realease'286986260#148#159#0(6@94"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m286986220#79#0#79#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)286986260#307#154#0(6@94"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m286986220#79#0#79#0#0"0(0#0#94"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m4300885448#2209"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources/i386 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources -include /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobileViewController.o0#
+
+CCompileC build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/main.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286986260.189461
+e286986260.242666
+r1
+xCompileC
+xbuild/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/main.o
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m286986260#286986260#0(0"0(0#0#65"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m4300885448#2159"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources/i386 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources -include /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+s286986259.053398
+e286986259.578198
+r1
+xCompileXIB
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+lSLF07#2@40"CompileXIB BurroMobileViewController.xib286986259#286986259#0(0"0(0#0#88"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib4300885448#576"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobileViewController.nib /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib0#
+
+CCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+s286986259.046647
+e286986259.340400
+r1
+xCompileXIB
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib286986259#286986259#0(0"0(0#0#73"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib4300885448#546"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/MainWindow.nib /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/BurroMobile.app/Berrando.jpg Berrando.jpg
+s286986259.340661
+e286986259.345987
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurroMobile.app/Berrando.jpg
+xBerrando.jpg
+lSLF07#2@17"Copy Berrando.jpg286986259#286986259#0(0"0(0#0#71"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Berrando.jpg4300885448#520"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Berrando.jpg /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app0#
+
+CGenerateDSYMFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app.dSYM /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile
+s286985971.284523
+e286985971.302138
+r1
+xGenerateDSYMFile
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app.dSYM
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/BurroMobile.app.dSYM build/Debug-iphonesimulator/BurroMobile.app/BurroMobile286985971#286985971#0(0"0(0#0#114"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile4300885448#455"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app.dSYM0#
+
+CLd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile normal i386
+s286986260.341641
+e286986260.363627
+r0
+xLd
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile
+xnormal
+xi386
+oUndefined symbols:
+o  ".objc_class_name_CLLocationManager", referenced from:
+o      literal-pointer@__OBJC@__cls_refs@CLLocationManager in BurroMobileViewController.o
+o  "_kCLLocationAccuracyBest", referenced from:
+o      _kCLLocationAccuracyBest$non_lazy_ptr in BurroMobileViewController.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@119"Link /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile286986260#286986260#0(347"Undefined symbols:  ".objc_class_name_CLLocationManager", referenced from:      literal-pointer@__OBJC@__cls_refs@CLLocationManager in BurroMobileViewController.o  "_kCLLocationAccuracyBest", referenced from:      _kCLLocationAccuracyBest$non_lazy_ptr in BurroMobileViewController.old: symbol(s) not foundcollect2: ld returned 1 exit status6(4@54"".objc_class_name_CLLocationManager", referenced from:286986260#19#57#0(6@0"286986260#0#0#0#0#0"0(13@82"Literal-pointer@__OBJC@__cls_refs@CLLocationManager in BurroMobileViewController.o286986260#76#89#0(6@0"286986260#0#0#0#0#0"0(4@44""_kCLLocationAccuracyBest", referenced from:286986260#165#47#0(6@0"286986260#0#0#0#0#0"0(13@68"_kCLLocationAccuracyBest$non_lazy_ptr in BurroMobileViewController.o286986260#212#75#0(6@0"286986260#0#0#0#0#0"0(13@19"Symbol(s) not found286986260#287#24#0(6@0"286986260#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status286986260#311#36#0(6@0"286986260#0#0#0#0#0"0(0#0#0"4300885448#984"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator -filelist /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/Objects-normal/i386/BurroMobile.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/BurroMobile1#
+
+CProcessInfoPlistFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/Info.plist BurroMobile-Info.plist
+s286986259.032553
+e286986259.039038
+r1
+xProcessInfoPlistFile
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/Info.plist
+xBurroMobile-Info.plist
+lSLF07#2@30"Process BurroMobile-Info.plist286986259#286986259#0(0"0(0#0#81"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile-Info.plist4300885448#551"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BurroMobile-Info.plist -genpkginfo /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app/Info.plist0#
+
+CProcessPCH /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch.gch BurroMobile_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286986259.578325
+e286986260.189319
+r1
+xProcessPCH
+x/var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch.gch
+xBurroMobile_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile BurroMobile_Prefix.pch286986259#286986260#0(0"0(0#0#81"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile_Prefix.pch4300885448#2027"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources/i386 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Debug-iphonesimulator/BurroMobile.build/DerivedSources -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile_Prefix.pch -o /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-bkdaseidimkonifoafjydujplpek/BurroMobile_Prefix.pch.gch0#
+
+CTouch /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app
+s286985971.302232
+e286985971.304906
+r1
+xTouch
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app
+lSLF07#2@108"Touch /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app286985971#286985971#0(0"0(0#0#0"4300885448#322"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Debug-iphonesimulator/BurroMobile.app0#
+

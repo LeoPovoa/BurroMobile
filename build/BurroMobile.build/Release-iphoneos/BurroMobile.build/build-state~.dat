@@ -1,0 +1,517 @@
+TBurroMobile
+v7
+r0
+t292946095.337848
+cCheck dependencies
+cCpResource build/Release-iphoneos/BurroMobile.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Info.plist BurroMobile-Info.plist
+cCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+cCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+cCpResource build/Release-iphoneos/BurroMobile.app/Berrando.jpg Berrando.jpg
+cCopyPlistFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Burro_Entitlements.plist Burro_Entitlements.plist
+cCpResource build/Release-iphoneos/BurroMobile.app/PAUSE.gif PAUSE.gif
+cCpResource build/Release-iphoneos/BurroMobile.app/quebra.gif quebra.gif
+cCpResource build/Release-iphoneos/BurroMobile.app/REC.gif REC.gif
+cCopyPNGFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/hapax.png hapax.png
+cProcessPCH /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch.gch BurroMobile_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/main.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileAppDelegate.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileViewController.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile normal armv6
+cGenerateDSYMFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app.dSYM /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile
+cProcessProductPackaging "/Users/leonardo_povoa/Library/MobileDevice/Provisioning Profiles/45961A19-DA8E-44DB-9165-56F7427EF916.mobileprovision" /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/embedded.mobileprovision
+cTouch /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent
+cCodeSign /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004ABFDAFE0000000000000110
+t1254087422
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDD17F0000000000085550
+t1253953919
+s546128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDD17900000000000001AF
+t1253953913
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B2FA6BF0000000000000110
+t1261414079
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61E30000000000084510
+t1261134307
+s541968
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61D300000000000001AF
+t1261134291
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Berrando.jpg
+c000000004B1905790000000000005002
+t1259931001
+s20482
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+c000000004BC3C10D0000000000007495
+t1271120141
+s29845
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile_Prefix.pch
+c000000004B6765FC00000000000000BF
+t1265067516
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Burro_Entitlements.plist
+c000000004B99046700000000000000E1
+t1268319335
+s225
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.h
+c000000004B6765FC00000000000001FD
+t1265067516
+s509
+i<UIKit/UIKit.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m
+c000000004B6765FC0000000000000284
+t1265067516
+s644
+i"BurroMobileAppDelegate.h"
+i"BurroMobileViewController.h"
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.h
+c000000004BC5C17C000000000000055A
+t1271251324
+s1370
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m
+c000000004BC5C83D0000000000002DD5
+t1271253053
+s11733
+i"BurroMobileViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+c000000004B6765FC000000000000247A
+t1265067516
+s9338
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/PAUSE.gif
+c000000004B942E16000000000000047B
+t1268002326
+s1147
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/REC.gif
+c000000004B942E6000000000000006B6
+t1268002400
+s1718
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent
+t1271253293
+s319
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobile.LinkFileList
+c000000004BC5C92B00000000000001DD
+t1271253291
+s477
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileAppDelegate.o
+t1271253292
+s41092
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileViewController.o
+t1271253293
+s76300
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/main.o
+t1271253292
+s6680
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app
+t1271253295
+s578
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app.dSYM
+t1271253293
+s102
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Berrando.jpg
+t1271253291
+s20482
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile
+t1271253293
+s31408
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile.app
+t2
+s0
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobileViewController.nib
+t1271253291
+s4784
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Burro_Entitlements.plist
+t1271253291
+s62
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Info.plist
+t1271253291
+s756
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/MainWindow.nib
+t1271253291
+s1503
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/PAUSE.gif
+t1271253291
+s1147
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/PkgInfo
+t1271253291
+s8
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/REC.gif
+t1271253291
+s1718
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/ResourceRules.plist
+t1271253291
+s485
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/embedded.mobileprovision
+t1271253293
+s7212
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/hapax.png
+t1271253292
+s935
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/quebra.gif
+t1271253291
+s2591
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/hapax.png
+c000000004BBE1E710000000000000446
+t1270750833
+s1094
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m
+c000000004B6765FC0000000000000173
+t1265067516
+s371
+i<UIKit/UIKit.h>
+
+N/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/quebra.gif
+c000000004B943BD60000000000000A1F
+t1268005846
+s2591
+
+N/Users/leonardo_povoa/Library/MobileDevice/Provisioning Profiles/45961A19-DA8E-44DB-9165-56F7427EF916.mobileprovision
+c000000004B8EA45C0000000000001C2C
+t1267639388
+s7212
+
+N/var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-enrtrcifnkgtniepsixiytkvhcto/BurroMobile_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch.gch
+t1271253292
+s7700664
+
+NBurroMobile-Info.plist
+c000000004BBE25C3000000000000045B
+t1270752707
+s1115
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292946091#292946091#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app
+s292946093.211200
+e292946095.337726
+r1
+xCodeSign
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app
+lSLF07#2@47"CodeSign build/Release-iphoneos/BurroMobile.app292946093#292946095#0(0"0(0#0#97"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app4300885448#778"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Carlos Leonardo Leonardo Ramos Póvoa (BGN8GZ6JH5)" --resource-rules=/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/ResourceRules.plist --entitlements /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
+CCompileC build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileAppDelegate.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292946092.707337
+e292946092.806936
+r1
+xCompileC
+xbuild/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileAppDelegate.o
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m292946092#292946092#0(0"0(0#0#91"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m4300885448#2107"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources/armv6 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources -include /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileAppDelegate.m -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileAppDelegate.o0#
+
+CCompileC build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileViewController.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292946092.762944
+e292946093.136125
+r1
+xCompileC
+xbuild/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileViewController.o
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m: In function '-[BurroMobileViewController dealloc]':
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: 'CLLocationManager' may not respond to '-realease'
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: (Messages without a matching method signature
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: will be assumed to return 'id' and accept
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: '...' as arguments.)
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m: In function '-[BurroMobileViewController EnviaPost]':
+o/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:360: warning: passing argument 2 of 'initWithTitle:message:delegate:cancelButtonTitle:otherButtonTitles:' from incompatible pointer type
+lSLF07#2@102"Compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m292946092#292946093#0(1126"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m: In function '-[BurroMobileViewController dealloc]':/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: 'CLLocationManager' may not respond to '-realease'/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: (Messages without a matching method signature/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: will be assumed to return 'id' and accept/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:157: warning: '...' as arguments.)/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m: In function '-[BurroMobileViewController EnviaPost]':/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m:360: warning: passing argument 2 of 'initWithTitle:message:delegate:cancelButtonTitle:otherButtonTitles:' from incompatible pointer type3(22@50"'CLLocationManager' may not respond to '-realease'292946092#148#160#0(6@94"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m292945853#157#0#157#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)292946092#308#155#0(6@94"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m292945853#157#0#157#0#0"0(22@122"Passing argument 2 of 'initWithTitle:message:delegate:cancelButtonTitle:otherButtonTitles:' from incompatible pointer type292946092#894#232#0(6@94"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m292945853#360#0#360#0#56"passing argument * of '*' from incompatible pointer type0(0#0#94"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m4300885448#2113"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources/armv6 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources -include /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Classes/BurroMobileViewController.m -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobileViewController.o0#
+
+CCompileC build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/main.o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292946092.705967
+e292946092.762829
+r1
+xCompileC
+xbuild/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/main.o
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m292946092#292946092#0(0"0(0#0#65"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m4300885448#2063"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources/armv6 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources -include /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/main.m -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+s292946091.322758
+e292946091.837098
+r1
+xCompileXIB
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib
+lSLF07#2@40"CompileXIB BurroMobileViewController.xib292946091#292946091#0(0"0(0#0#88"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib4300885448#564"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobileViewController.nib /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobileViewController.xib0#
+
+CCompileXIB /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+s292946091.321985
+e292946091.620999
+r1
+xCompileXIB
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292946091#292946091#0(0"0(0#0#73"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib4300885448#534"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/MainWindow.nib /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/MainWindow.xib0#
+
+CCopyPNGFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/hapax.png hapax.png
+s292946091.839120
+e292946092.106622
+r1
+xCopyPNGFile
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/hapax.png
+xhapax.png
+lSLF07#2@70"CopyPNGFile build/Release-iphoneos/BurroMobile.app/hapax.png hapax.png292946091#292946092#0(0"0(0#0#68"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/hapax.png4300885448#624"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/hapax.png /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/hapax.png0#
+
+CCopyPlistFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Burro_Entitlements.plist Burro_Entitlements.plist
+s292946091.621852
+e292946091.880882
+r1
+xCopyPlistFile
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Burro_Entitlements.plist
+xBurro_Entitlements.plist
+lSLF07#2@29"Copy Burro_Entitlements.plist292946091#292946091#0(0"0(0#0#83"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Burro_Entitlements.plist4300885448#431"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Burro_Entitlements.plist --outdir /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
+CCpResource build/Release-iphoneos/BurroMobile.app/Berrando.jpg Berrando.jpg
+s292946091.621109
+e292946091.635404
+r1
+xCpResource
+xbuild/Release-iphoneos/BurroMobile.app/Berrando.jpg
+xBerrando.jpg
+lSLF07#2@17"Copy Berrando.jpg292946091#292946091#0(0"0(0#0#71"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Berrando.jpg4300885448#529"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/Berrando.jpg /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
+CCpResource build/Release-iphoneos/BurroMobile.app/BurroMobile.app build/Release-iphoneos/BurroMobile.app
+r0
+
+CCpResource build/Release-iphoneos/BurroMobile.app/PAUSE.gif PAUSE.gif
+s292946091.837193
+e292946091.867374
+r1
+xCpResource
+xbuild/Release-iphoneos/BurroMobile.app/PAUSE.gif
+xPAUSE.gif
+lSLF07#2@14"Copy PAUSE.gif292946091#292946091#0(0"0(0#0#68"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/PAUSE.gif4300885448#526"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/PAUSE.gif /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
+CCpResource build/Release-iphoneos/BurroMobile.app/REC.gif REC.gif
+s292946091.838533
+e292946091.867528
+r1
+xCpResource
+xbuild/Release-iphoneos/BurroMobile.app/REC.gif
+xREC.gif
+lSLF07#2@12"Copy REC.gif292946091#292946091#0(0"0(0#0#66"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/REC.gif4300885448#524"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/REC.gif /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
+CCpResource build/Release-iphoneos/BurroMobile.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Release-iphoneos/BurroMobile.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s292946091.279184
+e292946091.321892
+r1
+xCpResource
+xbuild/Release-iphoneos/BurroMobile.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist292946091#292946091#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4300885448#549"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
+CCpResource build/Release-iphoneos/BurroMobile.app/quebra.gif quebra.gif
+s292946091.837927
+e292946091.866991
+r1
+xCpResource
+xbuild/Release-iphoneos/BurroMobile.app/quebra.gif
+xquebra.gif
+lSLF07#2@15"Copy quebra.gif292946091#292946091#0(0"0(0#0#69"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/quebra.gif4300885448#527"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/quebra.gif /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
+CGenerateDSYMFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app.dSYM /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile
+s292946093.166177
+e292946093.182456
+r1
+xGenerateDSYMFile
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app.dSYM
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile
+lSLF07#2@111"GenerateDSYMFile build/Release-iphoneos/BurroMobile.app.dSYM build/Release-iphoneos/BurroMobile.app/BurroMobile292946093#292946093#0(0"0(0#0#109"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile4300885448#438"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app.dSYM0#
+
+CLd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile normal armv6
+s292946093.136233
+e292946093.166065
+r1
+xLd
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile
+xnormal
+xarmv6
+lSLF07#2@114"Link /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile292946093#292946093#0(0"0(0#0#0"4300885448#1047"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos -filelist /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/Objects-normal/armv6/BurroMobile.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/BurroMobile0#
+
+CProcessInfoPlistFile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Info.plist BurroMobile-Info.plist
+s292946091.280454
+e292946091.294531
+r1
+xProcessInfoPlistFile
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Info.plist
+xBurroMobile-Info.plist
+lSLF07#2@30"Process BurroMobile-Info.plist292946091#292946091#0(0"0(0#0#81"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile-Info.plist4300885448#664"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BurroMobile-Info.plist -genpkginfo /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/ResourceRules.plist -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/Info.plist0#
+
+CProcessPCH /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-enrtrcifnkgtniepsixiytkvhcto/BurroMobile_Prefix.pch.gch BurroMobile_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch.gch BurroMobile_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292946092.106764
+e292946092.705826
+r1
+xProcessPCH
+x/var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch.gch
+xBurroMobile_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile BurroMobile_Prefix.pch292946092#292946092#0(0"0(0#0#81"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile_Prefix.pch4300885448#1935"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-generated-files.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-own-target-headers.hmap -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-all-target-headers.hmap -iquote /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile-project-headers.hmap -F/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/include -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources/armv6 -I/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/DerivedSources -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/BurroMobile_Prefix.pch -o /var/folders/C5/C5fmEreHG54Lo55bqx6FVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurroMobile_Prefix-hkxuhcehfbyaczbbkbcovhctjvkw/BurroMobile_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/leonardo_povoa/Library/MobileDevice/Provisioning Profiles/45961A19-DA8E-44DB-9165-56F7427EF916.mobileprovision" /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/embedded.mobileprovision
+s292946093.182570
+e292946093.184015
+r1
+xProcessProductPackaging
+x/Users/leonardo_povoa/Library/MobileDevice/Provisioning Profiles/45961A19-DA8E-44DB-9165-56F7427EF916.mobileprovision
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/leonardo_povoa/Library/MobileDevice/Provisioning Profiles/45961A19-DA8E-44DB-9165-56F7427EF916.mobileprovision" build/Release-iphoneos/BurroMobile.app/embedded.mobileprovision292946093#292946093#0(0"0(0#0#122"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/embedded.mobileprovision4300885448#478"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/leonardo_povoa/Library/MobileDevice/Provisioning Profiles/45961A19-DA8E-44DB-9165-56F7427EF916.mobileprovision" -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent
+s292946093.188612
+e292946093.211085
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent
+lSLF07#2@191"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent292946093#292946093#0(0"0(0#0#135"/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent4300885448#488"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/BurroMobile.build/Release-iphoneos/BurroMobile.build/BurroMobile.xcent0#
+
+CTouch /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app
+s292946093.184079
+e292946093.188507
+r1
+xTouch
+x/Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app
+lSLF07#2@103"Touch /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app292946093#292946093#0(0"0(0#0#0"4300885448#310"    cd /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/leonardo_povoa/Documents/Xcode_Projetos/BurroMobile/build/Release-iphoneos/BurroMobile.app0#
+
