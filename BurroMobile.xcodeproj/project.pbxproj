@@ -219,7 +219,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "34AC5C79-B32C-417C-B0C3-A7B5FDDC6AA3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E9953927-B9F9-4B69-BE14-0AD32983275C";
 				SDKROOT = iphoneos3.1.2;
 			};
 			name = Distribution;
@@ -234,7 +234,7 @@
 				GCC_PREFIX_HEADER = BurroMobile_Prefix.pch;
 				INFOPLIST_FILE = "BurroMobile-Info.plist";
 				PRODUCT_NAME = BurroMobile;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "34AC5C79-B32C-417C-B0C3-A7B5FDDC6AA3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E9953927-B9F9-4B69-BE14-0AD32983275C";
 			};
 			name = Distribution;
 		};
